@@ -1,0 +1,11 @@
+C:\Users\Dadoum\source\repos\Launchdere\Launchdere\obj\Debug\Launchdere.csprojAssemblyReference.cache
+C:\Users\Dadoum\source\repos\Launchdere\Launchdere\obj\Debug\Launchdere.Properties.Resources.resources
+C:\Users\Dadoum\source\repos\Launchdere\Launchdere\obj\Debug\Launchdere.csproj.GenerateResource.cache
+C:\Users\Dadoum\source\repos\Launchdere\Launchdere\obj\Debug\Launchdere.csproj.CoreCompileInputs.cache
+C:\Users\Dadoum\source\repos\Launchdere\Launchdere\bin\Debug\Launchdere.exe.config
+C:\Users\Dadoum\source\repos\Launchdere\Launchdere\obj\Debug\Launchdere.exe
+C:\Users\Dadoum\source\repos\Launchdere\Launchdere\obj\Debug\Launchdere.pdb
+C:\Users\Dadoum\source\repos\Launchdere\Launchdere\obj\Debug\Launchdere.LaunchForm.resources
+C:\Users\Dadoum\source\repos\Launchdere\Launchdere\obj\Debug\Launchdere.ProfileConfigurator.resources
+C:\Users\Dadoum\source\repos\Launchdere\Launchdere\obj\Debug\Launchdere.ProfileReconfigurator.resources
+C:\Users\Dadoum\source\repos\Launchdere\Launchdere\obj\Debug\Launchdere.DialogBox.resources
